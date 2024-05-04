@@ -17,8 +17,8 @@ My journey in infomation tech has led me to develop a passion for cybersecurity,
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
+| Security Automation with Shuffle SOAR         | SOC Lab|
+| Incident Response Planning and Execution      | SOC Lab|
 | Configuring Identity and Access Management Controls     | Lab|
 | Managing Certificates with OpenSSL                      | Lab|
 
@@ -46,6 +46,13 @@ My journey in infomation tech has led me to develop a passion for cybersecurity,
     <img src="https://img.shields.io/badge/-Wazuh-005571?&style=for-the-badge&logo=Wazuh&logoColor=white" />
 </div>
 
+### Cloud
+<div>
+    <img src="https://img.shields.io/badge/-Amazon%20S3-FF9900?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
+    
+</div>
+
+
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
@@ -53,4 +60,4 @@ My journey in infomation tech has led me to develop a passion for cybersecurity,
 
 ## Projects
 - Detection Lab
-- SOC Automation Project
+- SOC Project
