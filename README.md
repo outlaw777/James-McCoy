@@ -1,12 +1,12 @@
 # Hello, I'm James
 <a href="https://linkedin.com/linkedin.com/james-mccoy-52a2492a7"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Brief Introduction
 
-I recently recevice CompTia Security+  I'm interest in technology and a dedication to solving complex problems.
+
+I recently recevice CompTia Security+ cerification I'm interest in technology and a dedication to solving complex problems.
 
 ## Objective
-Provide Objective
+
 
 My journey in infomation tech has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
@@ -17,7 +17,7 @@ My journey in infomation tech has led me to develop a passion for cybersecurity,
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Lab|
+| Configuring an Intrusion Detection System         | SOC Lab|
 | Incident Response Planning and Execution      | SOC Lab|
 | Configuring Identity and Access Management Controls     | Lab|
 | Managing Certificates with OpenSSL                      | Lab|
