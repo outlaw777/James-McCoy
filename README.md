@@ -61,4 +61,7 @@ My journey in infomation tech has led me to develop a passion for cybersecurity,
 ## Projects
 - Detection Lab
 - SOC Project
-- Amazon Cloud S3
+- Amazon Cloud S3 
+- Analyze Network Traffic with Tcpdump
+- Wireshark for Beginners Capture Packets
+- Home Lab Network with Pfsense
