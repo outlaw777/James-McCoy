@@ -61,3 +61,4 @@ My journey in infomation tech has led me to develop a passion for cybersecurity,
 ## Projects
 - Detection Lab
 - SOC Project
+- Amazon Cloud S3
