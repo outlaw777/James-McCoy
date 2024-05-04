@@ -15,7 +15,7 @@ My journey in Infomation Technology has led me to develop a passion for cybersec
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/outlaw777/Detection-Lab/tree/main">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Configuring an Intrusion Detection System         | SOC Lab|
 | Incident Response Planning and Execution      | SOC Lab|
@@ -64,7 +64,7 @@ My journey in Infomation Technology has led me to develop a passion for cybersec
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/outlaw777/Detection-Lab/tree/main">Detection Lab</a> 
 - SOC Project
 - Amazon Cloud S3 
 - Analyze Network Traffic with Tcpdump
